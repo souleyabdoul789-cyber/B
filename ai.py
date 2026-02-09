@@ -3,7 +3,7 @@ import json
 import os
 
 # --- CONFIGURATION ---
-API_KEY = "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"
+API_KEY = "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"
 URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL = "deepseek/deepseek-chat"
 MEMOIRE_FILE = "memoire.json"
